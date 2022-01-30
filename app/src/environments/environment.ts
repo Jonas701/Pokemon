@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  apiBaseUrl: 'https://localhost:8080/h2-console'
+  apiBaseUrl: 'https://pokeapi.co/api/v2'
 };
 
 /*
