@@ -1,4 +1,4 @@
-# Pokemon
+# Pokemon application
 
 Application pour la recherche de Pokemon 
 
